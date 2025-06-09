@@ -1,5 +1,7 @@
 # Invoice Validator using n8n
 
+![image](https://github.com/user-attachments/assets/af77ec90-c900-4a01-b85e-549509e7a334)
+
 #### 1.) To run this in your n8n download the json.
 #### 2.) Open n8n, create a new workflow.
 #### 3.) Click on triple dots -> Import from file.
